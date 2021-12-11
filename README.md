@@ -1,4 +1,4 @@
 # patika.dev
 Odevler
 
-## patika.dev frontend ilk ödev
+### patika.dev frontend ilk ödev
